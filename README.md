@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kelvindenice
-- 👀 I’m interested in AI engineering and cybersecurity
+- 👋 Hi, I’m @kelvinkamugumya
+- 👀 I’m interested in AI engineering and Mobile development
 - 🌱 I’m currently learning programming languages
-- 💞️ I’m looking to collaborate on AI engineering and cybersecurity
+- 💞️ I’m looking to collaborate on AI engineering and Mobile development
 - 📫 How to reach me kelvindenice25@gmail.com
 
 <!---
